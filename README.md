@@ -10,7 +10,7 @@ About a boy from the hidden village.
 <p align="left"><a href="https://github.com/FKandie"><img title="Felix Kandie" src="https://github-readme-stats.vercel.app/api?username=victorkemboi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 <a href="https://dribbble.com/mes_inc" style="margin-right:.5%; margin-top=.5%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorkemboi&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-kiprop&layout=compact" />
 </a><br>
 
 
